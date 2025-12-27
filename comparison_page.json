@@ -1,0 +1,6 @@
+{
+  "title": "Comparison: {{ name }} vs {{ comp_name }}",
+  "our_price": "\u00e2\u201a\u00b9699",
+  "their_price": "999",
+  "verdict": "Better Value"
+}
